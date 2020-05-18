@@ -92,7 +92,7 @@ function DraggableModalInnerNonMemo({
             width={width}
             destroyOnClose={true}
             mask={false}
-            maskClosable={false}
+            maskClosable={true}
             zIndex={zIndex}
             title={titleElement}
             visible={visible}
